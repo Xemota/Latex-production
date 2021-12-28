@@ -180,8 +180,8 @@ the normal size. For huge font size, you can put 28 for this parameter.
  location on the current page (X and Y). Take care to write a number between 0 and 1
  for these parameters. The third one allows to resize the width of the text. The last one
  allows to contain the text under this form : \texttt{your text}. You can use the method
- "NCModularFONTsize" to modify the size of the font (for more explanation, please to
- refer to this function below in this file).
+ "NCModularFONTsize" to modify the font size (for more explanation, please to
+ refer to this function above in this file).
 
 
 
